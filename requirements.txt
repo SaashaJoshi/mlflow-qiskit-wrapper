@@ -1,0 +1,4 @@
+mlflow==2.10.2
+qiskit==0.46.0
+qiskit-machine-learning==0.7.1
+setuptools==69.0.3
